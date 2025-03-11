@@ -1,5 +1,5 @@
 
-# 📚 Student Performance Predictor
+# 📚 Student Performance Analysis
 
 Este repositorio contiene el análisis y predicción del desempeño estudiantil basado en diversos factores educativos y socioeconómicos.
 
