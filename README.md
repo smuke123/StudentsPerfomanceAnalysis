@@ -42,7 +42,7 @@ Abre el archivo .ipynb en Google Colab o Jupyter Notebook.
 ## 👥 Autores
 
 - [smuke123](https://github.com/smuke123)
-- 
+- [DavidSerrano0801](https://github.com/davidserrano0801)
 -
 
 
